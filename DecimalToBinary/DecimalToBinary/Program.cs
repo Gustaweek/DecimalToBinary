@@ -21,7 +21,7 @@ namespace DecimalToBinary
                 Console.WriteLine("Liczba Binarna:  {0}", result);
             }
             else
-                Console.WriteLine("PODAJ LICZBE NIE UJEMNA");
+                Console.WriteLine("TO NIE JEST LICZBA DODATNIA");
         }
     }
 }
